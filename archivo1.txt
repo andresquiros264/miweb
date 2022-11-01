@@ -1,4 +1,9 @@
 Mi chanchito feliz
 Mi chanchito feliz
+<<<<<<< HEAD
 de nuevo
 otra linea de praactiaca
+=======
+lucas y nicolas
+nuevo dia
+>>>>>>> 27b575464c3f97054aecf0386ad76d6844b0cd62
