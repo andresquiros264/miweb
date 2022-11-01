@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-otro chanchito feliz
-otro chanchito feliz
 
-=======
+otro chanchito feliz
+otro chanchito feliz
 Mi chanchito feliz
 chanchito triste
 nicolas
 nuevo chanchito feliz
-<<<<<<< HEAD
 cuarto chanchito feliz
->>>>>>> ramab
-=======
 nuevo dia para los chanchitos
->>>>>>> 27b575464c3f97054aecf0386ad76d6844b0cd62
+
